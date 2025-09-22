@@ -1,0 +1,5 @@
+{
+  "name": "AI Virtual Try-On",
+  "description": "An application that allows users to upload a photo of a person and a photo of clothing, then uses AI to generate an image of the person wearing the clothing.",
+  "requestFramePermissions": []
+}
